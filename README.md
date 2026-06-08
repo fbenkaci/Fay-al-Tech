@@ -1,21 +1,17 @@
 # Hey ! 👋
 
-Je suis étudiant à 42 Paris, passionné par le Cloud Computing et l’ingénierie des infrastructures.
+Je suis étudiant à 42 Paris et je m’oriente vers les métiers du Cloud Computing.
 
-J’aime concevoir, déployer et comprendre des systèmes performants, fiables et évolutifs.
+Curieux de nature, j’aime explorer de nouvelles technologies et comprendre leur fonctionnement en profondeur.
 
-Mon objectif est de me spécialiser dans le Cloud, le DevOps, Kubernetes et l’automatisation.
+J’accorde une grande importance à l’apprentissage continu et au développement de nouvelles compétences techniques.
 
-Je porte également un fort intérêt à l’Intelligence Artificielle et à son intégration dans les environnements cloud.
+Je m’intéresse particulièrement au Cloud, au DevOps, à l’automatisation ainsi qu’à l’Intelligence Artificielle.
 
-J’apprends continuellement à travers mes projets personnels et les nouvelles technologies.
-
-N’hésitez pas à parcourir mes dépôts et à suivre mon parcours.
+À travers mes projets, je cherche à relever de nouveaux défis et à enrichir constamment mes connaissances.
 
 ## À propos de moi :
 
-- ⚽ Passionné de football
-- 💪 Amateur de musculation
-- 📚 J’aime la lecture
-- ☁️ Futur ingénieur Cloud
-- 🤖 Intéressé par l’Intelligence Artificielle
+- ⚽ Football
+- 💪 Musculation
+- 📚 Lecture
